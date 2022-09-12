@@ -13,7 +13,7 @@ public class circleradius {
     }
     public static void main(String[] args){
         circleradius circlestuff = new circleradius(432);
-        System.out.println(circlestuff.getcircumference());
+        System.out.println(circlestuff.getcircumference(432));
         System.out.println(circlestuff.getarea());
     }
 }
