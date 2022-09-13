@@ -15,5 +15,6 @@ public class circleradius {
         circleradius circlestuff = new circleradius(432);
         System.out.println(circlestuff.getcircumference(432));
         System.out.println(circlestuff.getarea());
+        System.out.println("shawn is cool");
     }
 }
